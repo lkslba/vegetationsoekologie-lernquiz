@@ -1,10 +1,10 @@
-# 🌱 Vegetationsökologie Lernquiz
+#  Python Lernquiz
 
-Ein interaktives Python-Lernkarten-Quiz zur Prüfungsvorbereitung in Vegetationsökologie mit JSON-basiertem Content-Management.
+Ein interaktives Python-Lernkarten-Quiz zur Prüfungsvorbereitung mit JSON-basiertem Content-Management.
 
 ## 📋 Übersicht
 
-Dieses Quiz-System wurde entwickelt, um das Lernen von Pflanzenarten, Vegetationstypen und ökologischen Zusammenhängen zu unterstützen. Das System trennt die Quiz-Logik vom Inhalt durch die Verwendung von JSON-Dateien, wodurch es einfach erweiterbar und anpassbar ist.
+Dieses Quiz-System wurde entwickelt, um das Lernen von Pflanzenarten, Vegetationstypen und ökologischen Zusammenhängen zu unterstützen, kann aber auf alle möglichen Gebiete angewendet werden. Das System trennt die Quiz-Logik vom Inhalt durch die Verwendung von JSON-Dateien, wodurch es einfach erweiterbar und anpassbar ist.
 
 ## ✨ Features
 
@@ -15,9 +15,9 @@ Dieses Quiz-System wurde entwickelt, um das Lernen von Pflanzenarten, Vegetation
 - **🔍 Auto-Erkennung**: Automatisches Laden aller Quiz-Dateien im Verzeichnis
 - **✅ Validierung**: Robuste Fehlerbehandlung und Strukturprüfung
 
-## 📚 Enthaltene Themenbereiche
+## 📚 Beispiel Themenbereiche
 
-Das Quiz enthält vier Hauptthemenbereiche der Vegetationsökologie:
+Das Repository enthält vier Beispiel-Themenbereiche der Vegetationsökologie:
 
 ### 1. Biome der Welt (27 Karten)
 - Äquatoriale Regenwälder
@@ -52,6 +52,8 @@ Das Quiz enthält vier Hauptthemenbereiche der Vegetationsökologie:
 - **Subalpine Stufe**: Fichtenwälder, Lärchen-Arvenwälder
 - **Alpine Stufe**: Borstgrasweiden, Krummseggenrasen
 - **Nivale Stufe**: Felsfluren
+
+Damit kann die Funktion des Scripts getestet werden, ohne gleich eine eigene kompatible JSON Datei erstellen zu müssen.
 
 ## 🚀 Installation & Verwendung
 
@@ -117,7 +119,7 @@ Das neue Thema erscheint automatisch in der Themenauswahl.
 
 ## 🎓 Lernstrategie
 
-Das Quiz implementiert ein **Spaced Repetition System**:
+Das Quiz implementiert ein sehr grundlegendes **Spaced Repetition System**:
 
 1. **Erste Runde**: Alle Karten werden einmal gezeigt
 2. **Wiederholung**: Falsch beantwortete Karten kommen nach 2 anderen Karten erneut
@@ -129,27 +131,6 @@ Das Quiz implementiert ein **Spaced Repetition System**:
 - 📝 Notiere dir schwierige Arten/Konzepte separat
 - ⏰ Mache regelmäßige, kurze Lernsessions
 
-## 🛠️ Technische Details
-
-### JSON-Schema
-```json
-{
-  "title": "string (required)",
-  "description": "string (optional)",
-  "flashcards": [
-    {
-      "question": "string (required)",
-      "answer": "string (required)"
-    }
-  ]
-}
-```
-
-### Fehlerbehandlung
-- ✅ Validierung der JSON-Struktur
-- ✅ Überspringen fehlerhafter Dateien
-- ✅ Detaillierte Fehlermeldungen
-- ✅ Graceful degradation bei Problemen
 
 ## 🤝 Beitragen
 
@@ -167,10 +148,5 @@ Verbesserungen und Erweiterungen sind willkommen!
 
 Dieses Projekt steht unter der MIT-Lizenz - siehe die Datei für Details.
 
-## 🙏 Danksagungen
-
-Entwickelt zur Unterstützung des Vegetationsökologie-Studiums. Die Inhalte basieren auf Vorlesungsmaterialien und wissenschaftlicher Literatur der Vegetationsökologie.
 
 ---
-
-*Viel Erfolg beim Lernen! 🌿*

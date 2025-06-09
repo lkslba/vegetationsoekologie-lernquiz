@@ -146,7 +146,7 @@ Verbesserungen und Erweiterungen sind willkommen!
 
 ## Lizenz
 
-Dieses Projekt steht unter der MIT-Lizenz - siehe die Datei für Details.
+Dieses Projekt steht unter der GPL3-Lizenz - siehe die Datei für Details.
 
 
 ---

@@ -1,21 +1,21 @@
-#  Python Lernquiz
+# Python Lernquiz
 
 Ein interaktives Python-Lernkarten-Quiz zur Prüfungsvorbereitung mit JSON-basiertem Content-Management.
 
-## 📋 Übersicht
+## Übersicht
 
 Dieses Quiz-System wurde entwickelt, um das Lernen von Pflanzenarten, Vegetationstypen und ökologischen Zusammenhängen zu unterstützen, kann aber auf alle möglichen Gebiete angewendet werden. Das System trennt die Quiz-Logik vom Inhalt durch die Verwendung von JSON-Dateien, wodurch es einfach erweiterbar und anpassbar ist.
 
-## ✨ Features
+## Features
 
-- **🔄 Adaptive Wiederholung**: Falsch beantwortete Karten werden automatisch erneut abgefragt
-- **📊 Fortschrittsanzeige**: Visueller Fortschrittsbalken während des Quiz
-- **🎯 Themenauswahl**: Wähle einzelne Themen oder alle auf einmal
-- **📁 JSON-basiert**: Einfache Erweiterung durch neue JSON-Dateien
-- **🔍 Auto-Erkennung**: Automatisches Laden aller Quiz-Dateien im Verzeichnis
-- **✅ Validierung**: Robuste Fehlerbehandlung und Strukturprüfung
+- **Adaptive Wiederholung**: Falsch beantwortete Karten werden automatisch erneut abgefragt
+- **Fortschrittsanzeige**: Visueller Fortschrittsbalken während des Quiz
+- **Themenauswahl**: Wähle einzelne Themen oder alle auf einmal
+- **JSON-basiert**: Einfache Erweiterung durch neue JSON-Dateien
+- **Auto-Erkennung**: Automatisches Laden aller Quiz-Dateien im Verzeichnis
+- **Validierung**: Robuste Fehlerbehandlung und Strukturprüfung
 
-## 📚 Beispiel Themenbereiche
+## Beispiel Themenbereiche
 
 Das Repository enthält vier Beispiel-Themenbereiche der Vegetationsökologie:
 
@@ -55,7 +55,7 @@ Das Repository enthält vier Beispiel-Themenbereiche der Vegetationsökologie:
 
 Damit kann die Funktion des Scripts getestet werden, ohne gleich eine eigene kompatible JSON Datei erstellen zu müssen.
 
-## 🚀 Installation & Verwendung
+## Installation & Verwendung
 
 ### Voraussetzungen
 - Python 3.6 oder höher
@@ -78,7 +78,7 @@ python3 lernquiz.py
    - `n` oder `Enter` = Falsch (wird wiederholt)
    - `q` = Quiz beenden
 
-## 📁 Dateistruktur
+## Dateistruktur
 
 ```
 ├── lernquiz.py                      # Haupt-Quiz-Script
@@ -89,7 +89,7 @@ python3 lernquiz.py
 └── README.md                       # Diese Dokumentation
 ```
 
-## 🔧 Eigene Inhalte hinzufügen
+## Eigene Inhalte hinzufügen
 
 Das System kann einfach mit eigenen Lernkarten erweitert werden:
 
@@ -117,7 +117,7 @@ Das Script erkennt automatisch alle `.json`-Dateien im aktuellen Verzeichnis.
 ### 3. Quiz neu starten
 Das neue Thema erscheint automatisch in der Themenauswahl.
 
-## 🎓 Lernstrategie
+## Lernstrategie
 
 Das Quiz implementiert ein sehr grundlegendes **Spaced Repetition System**:
 
@@ -126,25 +126,25 @@ Das Quiz implementiert ein sehr grundlegendes **Spaced Repetition System**:
 3. **Endwiederholung**: Alle noch offenen Karten werden am Ende nochmals gezeigt
 
 ### Tipps für effektives Lernen:
-- 🎯 Beginne mit einem Thema, bevor du alle gleichzeitig lernst
-- 🔄 Wiederhole falsche Antworten mehrmals
-- 📝 Notiere dir schwierige Arten/Konzepte separat
-- ⏰ Mache regelmäßige, kurze Lernsessions
+- Beginne mit einem Thema, bevor du alle gleichzeitig lernst
+- Wiederhole falsche Antworten mehrmals
+- Notiere dir schwierige Arten/Konzepte separat
+- Mache regelmäßige, kurze Lernsessions
 
 
-## 🤝 Beitragen
+## Beitragen
 
 Verbesserungen und Erweiterungen sind willkommen! 
 
 ### Mögliche Erweiterungen:
-- 🎲 Multiple-Choice Modus
-- 📊 Lernstatistiken und Performance-Tracking
-- ⏱️ Timer-basierte Modi
-- 🔄 Spaced Repetition Algorithmus (SM-2)
-- 💾 Fortschritt speichern zwischen Sessions
-- 🌐 Web-Interface
+- Multiple-Choice Modus
+- Lernstatistiken und Performance-Tracking
+- Timer-basierte Modi
+- Spaced Repetition Algorithmus (SM-2)
+- Fortschritt speichern zwischen Sessions
+- Web-Interface
 
-## 📄 Lizenz
+## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz - siehe die Datei für Details.
 

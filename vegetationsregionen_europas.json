@@ -1,0 +1,110 @@
+{
+  "title": "Vegetationsregionen Europas",
+  "description": "Vegetationsregionen Europas (A1 – P2) mit Verständniskarten",
+  "flashcards": [
+    {
+      "question": "Nenne drei typische Arten der Arktischen Tundra.",
+      "answer": "Betula nana, Cladonia rangiferina, Arctostaphylos alpina"
+    },
+    {
+      "question": "Nenne drei typische Arten der Alpine Rasen & Zwergsträucher.",
+      "answer": "Salix herbacea, Hieracium alpinum, Betula nana"
+    },
+    {
+      "question": "Nenne drei typische Arten der Birken-Kiefernwälder.",
+      "answer": "Pinus sylvestris, Picea abies, Betula pubescens"
+    },
+    {
+      "question": "Nenne drei typische Arten der Fichten- und Kiefernwälder.",
+      "answer": "Betula pubescens, Pinus sylvestris, Picea abies"
+    },
+    {
+      "question": "Nenne drei typische Arten der Fichten-Kiefern-Mischwälder.",
+      "answer": "Picea abies, Quercus robur, Pinus sylvestris"
+    },
+    {
+      "question": "Nenne drei typische Arten der Zwergstrauchheiden mit Birken.",
+      "answer": "Calluna vulgaris, Betula pubescens, Pinus sylvestris"
+    },
+    {
+      "question": "Nenne drei typische Arten der Subalpinen Gebirgsnadelwälder & Krummholzgebüsche.",
+      "answer": "Picea abies, Pinus sylvestris, Abies alba"
+    },
+    {
+      "question": "Nenne drei typische Arten der Eichenmischwälder.",
+      "answer": "Quercus pubescens, Quercus robur, Quercus petraea"
+    },
+    {
+      "question": "Nenne drei typische Arten der Eichenmischwälder mit Hasel.",
+      "answer": "Corylus avellana, Quercus petraea, Quercus robur"
+    },
+    {
+      "question": "Nenne drei typische Arten der Submediterranen sommergrünen Mischwälder.",
+      "answer": "Quercus petraea, Quercus pubescens, Castanea sativa"
+    },
+    {
+      "question": "Nenne drei typische Arten der Buchenwälder.",
+      "answer": "Fagus sylvatica, Abies alba, Quercus robur"
+    },
+    {
+      "question": "Nenne drei typische Arten der Thermomediterranen immergrünen Laubwälder.",
+      "answer": "Quercus suber, Quercus ilex, Olea europaea"
+    },
+    {
+      "question": "Nenne drei typische Arten der Mesomediterranen immer- & sommergrünen Laubwälder.",
+      "answer": "Quercus ilex, Quercus suber, Quercus cerris"
+    },
+    {
+      "question": "Nenne drei typische Arten der Submediterranen / mediterranen xerothermen Nadelwälder.",
+      "answer": "Pinus sylvestris, Abies nebrodensis, Pinus nigra"
+    },
+    {
+      "question": "Nenne drei typische Arten der Waldsteppen.",
+      "answer": "Quercus robur, Quercus petraea, Tilia cordata"
+    },
+    {
+      "question": "Nenne drei typische Arten der Federgras-Steppen.",
+      "answer": "Artemisia austriaca, Stipa capillata, Festuca valesiaca"
+    },
+    {
+      "question": "Warum können in der Arktischen Tundra (A1) keine Bäume wachsen?",
+      "answer": "Die Vegetationsperiode ist mit höchstens 1-3 Monaten über 5 °C extrem kurz, die Mitteltemperatur des wärmsten Monats bleibt unter 10 °C; außerdem hemmen Permafrost und flach auftauende Böden die Wurzelbildung."
+    },
+    {
+      "question": "Welches Bodenprofil prägt Boreale Fichten- und Kiefernwälder (B2) und was bedeutet das für die Nährstoffversorgung?",
+      "answer": "Ein ausgeprägter Podsol mit gebleichtem E-Horizont und Fe/Al-Anreicherung. Er ist nährstoffarm und sauer → konkurrenzstarker Unterwuchs aus Erika-Zwergsträuchern."
+    },
+    {
+      "question": "Welche Klimabedingung trennt atlantische Eichenmischwälder (T1) von den kontinentaleren Eichen-Hasel-Wäldern (T2)?",
+      "answer": "T1 liegt im sommerfeuchten Ozeanklima mit milden Wintern und ganzjährig ≥ 700 mm NS; T2 braucht kontinentale Sommerwärme, erträgt mehr Jahresamplitude, benötigt aber ausreichend Bodenfeuchte."
+    },
+    {
+      "question": "Welche Rolle spielt wiederkehrendes Feuer in thermomediterranen Hartlaubwäldern (M1)?",
+      "answer": "Sommerliche Dürre + brennbare Streu führen zu regelmäßigen Bränden. Feuer selektiert für dickborkige, resproutende, immergrüne Sclerophyllen (*Quercus ilex*, *Q. suber*) und verhindert dauerhafte Sukzession zur dichten Waldform."
+    },
+    {
+      "question": "Warum kann Rotbuche (*Fagus sylvatica*) in Buchenwäldern (T4) eine nahezu geschlossene Kronenschicht bilden?",
+      "answer": "Ihre extreme Schattenverträglichkeit in der Jugendphase, rasches Höhenwachstum und überdauernde Laubstreu ermöglichen ihr, Konkurrenz auszuschalten und ein ausgeprägtes Waldinnenklima zu schaffen."
+    },
+    {
+      "question": "Welcher Jahresniederschlagsbereich trennt Waldsteppen (P1) von Federgrassteppen (P2)?",
+      "answer": "P1 entsteht bei ~350–500 mm a⁻¹ – genug Feuchte für Quercus-Inseln. Sinkt der Niederschlag unter ~250–300 mm a⁻¹, dominieren trockenheits­resistente *Stipa*-Grasländer der P2-Steppen."
+    },
+    {
+      "question": "Wie entstehen die Mosaik-Strukturen der Tundra-Vegetation auf Gleysolen und Kryosolen?",
+      "answer": "Frostmuster- und Kryoturbationsprozesse (Eiskeile, Polygonböden) erzeugen Mikrorelief-Buckel und -Senken; differierende Entwässerung lässt nebeneinander Zwergstrauch-, Moos- und Sumpf­flecken entstehen."
+    },
+    {
+      "question": "Podsolierung und Rohhumusauflage in Birken-Kiefernwäldern (B1): Wie wirkt sich das auf den Unterwuchs aus?",
+      "answer": "Die saure, nährstoffarme Streu verlangsamt Zersetzung; daher dominieren moose- und flechten­reiche, grasarme Bodenschichten."
+    },
+    {
+      "question": "Warum gilt die hemiboreale Zone (B3) als ökologischer Übergangsraum?",
+      "answer": "Sie vereint boreale Koniferen (*Picea*, *Pinus*) mit sommergrünen Laubbäumen (*Quercus*, *Tilia*).  Ursache ist das gemäßigte Klima südlich der Taiga: genug Wärme für Laubholz, aber Winterkälte/Podsol-Böden begünstigen Koniferen – eine Mischung beider Lebensformen."
+    },
+    {
+      "question": "Nenne zwei physiologische Anpassungen von *Quercus ilex*, die ein Überleben in den sommer­trockenen Mesomediterranen Wäldern (M2) ermöglichen.",
+      "answer": "1) Lederige, beidseitig sklerophyll-behaarte Blätter senken transpirativen Wasserverlust. 2) Tiefreichendes Pfahlwurzel­system erschließt Grundwasserressourcen."
+    }
+  ]
+}

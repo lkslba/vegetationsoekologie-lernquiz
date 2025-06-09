@@ -1,0 +1,90 @@
+{
+  "title": "Azonale Vegetation Europas",
+  "description": "Azonale Vegetation Europas mit Verständniskarten",
+  "flashcards": [
+    {
+      "question": "Welche Vegetation prägt Strand- und Weißdünen?",
+      "answer": "Ammophila arenaria, Elymus farctus, Cakile maritima"
+    },
+    {
+      "question": "Welche drei Arten kennzeichnen Dünentäler?",
+      "answer": "Carex arenaria, Salix repens, Schoenus nigricans"
+    },
+    {
+      "question": "Nenne drei typische Arten der Graudünen.",
+      "answer": "Pinus sylvestris, Calluna vulgaris, Empetrum nigrum"
+    },
+    {
+      "question": "Nenne drei typische Arten der Vegetationsfreien Aue.",
+      "answer": "Chondrilla chondrilloides, Hieracium staticifolium, Epilobium fleischerii"
+    },
+    {
+      "question": "Nenne drei typische Arten der Gehölzfreien Aue.",
+      "answer": "Epilobium fleischerii, Myricaria germanica, Typha minima"
+    },
+    {
+      "question": "Nenne drei typische Arten der Weichholzaue.",
+      "answer": "Salix alba, Salix purpurea, Populus alba"
+    },
+    {
+      "question": "Nenne drei typische Arten der Hartholzaue.",
+      "answer": "Ulmus glabra, Fraxinus excelsior, Prunus padus"
+    },
+    {
+      "question": "Nenne drei typische Arten der Bruchwälder.",
+      "answer": "Alnus glutinosa, Frangula alnus, Carex elata"
+    },
+    {
+      "question": "Nenne drei typische Arten der Grossseggenriede.",
+      "answer": "Carex elata, Carex paniculata, Scutellaria galericulata"
+    },
+    {
+      "question": "Nenne drei typische Arten der Hochmoore.",
+      "answer": "Sphagnum sp., Drosera rotundifolia, Betula nana"
+    },
+    {
+      "question": "Nenne drei typische Arten der Felsfluren.",
+      "answer": "Potentilla caulescens, Cymbalaria muralis, Saxifraga cotyledon"
+    },
+    {
+      "question": "Warum ändert sich die Arten­zusammensetzung von der Strand- zur Graudüne?",
+      "answer": "Mit zunehmender Distanz vom Meer sinkt der Salzgehalt und die Übersandung, während etwas Humus akkumuliert; dadurch folgt auf die Ammophila-Dominanz der Weißdüne ein Artenwechsel über feuchte Dünentäler (Carex, Salix repens) zu nährstoffarmen Graudünenheiden (Calluna, Empetrum)."
+    },
+    {
+      "question": "Welche bauphysikalische Eigenschaft macht Ammophila arenaria zum Schlüsselpionier der Weißdüne?",
+      "answer": "Sein rasches Rhizom- und Wurzelwachstum passt sich Übersandung an, fixiert frischen Sand und baut so aktive Horste auf, die die Düne stabilisieren."
+    },
+    {
+      "question": "Welche Überflutungs­häufigkeit unterscheidet Weichholz- von Hartholzauen und wie wirkt sich das auf die Vegetations­struktur aus?",
+      "answer": "Weichholzauen werden nahezu jährlich überschwemmt und tragen strömungsresistente Pioniergehölze; Hartholzauen erleben Hochwasser nur alle 2–10 Jahre, besitzen dichte Unterwuchs-krautschichten und nährstoffreiche Böden."
+    },
+    {
+      "question": "Nenne zwei morphologische Anpassungen von Salix alba an Hochwasser-Strömung.",
+      "answer": "Schmale Blätter reduzieren Widerstand, biegsame Triebe brechen nicht und können sich nach Ablagerung vegetativ bewurzeln."
+    },
+    {
+      "question": "Wie überstehen Ulmus glabra und Fraxinus excelsior in der Hartholzaue mehrere Tage Bodenüberflutung?",
+      "answer": "Sie bilden Adventiv- und Atemwurzeln oberhalb der Anoxiezone und verfügen über Entgiftungsenzyme für reduzierende Ionen."
+    },
+    {
+      "question": "Beschreibe die natürliche Sukzession von Niedermoor zum Hochmoor in drei Stichworten.",
+      "answer": "Verlandung → Grundwasser­moor → Torfaufbau durch Sphagnum → nährstoffarmes, ombrotrophes Hochmoor."
+    },
+    {
+      "question": "Welche zwei Strategien kompensieren Nährstoffarmut im Hochmoor bei Drosera rotundifolia?",
+      "answer": "1) Karnivorie – Fang von Insekten; 2) Mykorrhiza zur verbesserten Nährstoffaufnahme."
+    },
+    {
+      "question": "Warum bilden Carex-Bestände im Grossseggenried ausgeprägte Horste?",
+      "answer": "Die Stängel wachsen jährlich über die wassergesättigte Torfschicht hinaus und lagern neues Wurzel- und Streumaterial auf, wodurch erhöhte Tussocks entstehen."
+    },
+    {
+      "question": "Nenne zwei Standortfaktoren, die Felsfluren zu Refugien für alpine Arten machen.",
+      "answer": "Extrem flachgründiges, nährstoffarmes Substrat sowie starke mechanische Exposition (Wind, Frostsprengung) schwächen die Konkurrenz durch höherwüchsige Arten."
+    },
+    {
+      "question": "Welche Pflegemaßnahme erhält artenreiche Kleinseggenriede und Pfeifengraswiesen – und warum?",
+      "answer": "Extensive Spätsommer-Mahd entfernt Streu, verhindert Verbuschung und bewahrt licht- sowie nährstoffarme Standorte für Orchideen und Seggen."
+    }
+  ]
+}

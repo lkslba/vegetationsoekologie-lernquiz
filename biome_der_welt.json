@@ -1,0 +1,114 @@
+{
+  "title": "Biome der Welt",
+  "description": "Biome der Welt – vollständig gemäss Vorlesung",
+  "flashcards": [
+    {
+      "question": "Welche klimatischen Bedingungen herrschen in Äquatorialen Regenwäldern?",
+      "answer": "Immerfeucht (2000–4000 mm/Jahr), konstant warm (Ø 25–27 °C), Tageszeitenklima, kein Frost, fast tägliche Niederschläge."
+    },
+    {
+      "question": "Welche Bodenmerkmale sind typisch für Äquatoriale Regenwälder?",
+      "answer": "Ferralsol: stark verwittert, rot durch Fe‑Oxide, nährstoffarm, kaum Humus, flache Wurzelsysteme, geringe KAK."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen in Äquatorialen Regenwäldern.",
+      "answer": "Bromelia, Asplenium, Ficus"
+    },
+    {
+      "question": "Welche klimatischen Bedingungen kennzeichnen Sommerfeuchte Savannengebiete der Tropen?",
+      "answer": "Ausgeprägt saisonales Regime: 4–8 humide Monate, Starkregen während der Regenzeit, Tageszeitenklima 25–27 °C, Trockenzeit mit Feuer, kein Frost."
+    },
+    {
+      "question": "Welche Böden finden sich in Sommerfeuchten Savannen?",
+      "answer": "Lixisol oder Nitisol: tonreich, mäßig verwittert, Humusakkumulation, geringe bis mittlere KAK."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen der Tropischen Savanne.",
+      "answer": "Acacia, Byrsonima, Kigelia"
+    },
+    {
+      "question": "Beschreibe das Klima Subtropischer Trockengebiete und Wüsten.",
+      "answer": "Sehr arid: Jahresniederschlag < 200 mm, 8–12 aride Monate, extreme tägliche und jahreszeitliche Temperaturschwankungen."
+    },
+    {
+      "question": "Welche Bodentypen sind typisch für Subtropische Wüsten?",
+      "answer": "Leptosol und andere steinige/sandige Böden mit hoher Wasserspeicherkapazität, wenig organische Substanz."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen in Subtropischen Trockengebieten.",
+      "answer": "Cilia, Anastatica, Tamarix"
+    },
+    {
+      "question": "Wie ist das Klima der Immergrünen Vegetation der immerfeuchten Subtropen?",
+      "answer": "Warmtemperiert, ganzjährig humid (1000–2000 mm), keine ausgeprägte Trockenzeit, selten Frost."
+    },
+    {
+      "question": "Welche Böden prägen die Immerfeuchten Subtropen?",
+      "answer": "Acrisole/Alisole: basenarm, versauert, Tonverlagerung, mäßig bis gute KAK."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen der immerfeuchten Subtropen.",
+      "answer": "Taxodium, Ginkgo, Magnolia"
+    },
+    {
+      "question": "Charakterisiere das Klima der Hartlaubvegetation der winterfeuchten Subtropen.",
+      "answer": "Mediterranes Winterregenklima: milde, feuchte Winter und trockene, heiße Sommer; Feuer spielt wichtige Rolle."
+    },
+    {
+      "question": "Welche Böden finden sich unter der Hartlaubvegetation?",
+      "answer": "Terra Rossa (Chromic Cambisol/Luvisol): tonreich, rubefiziert, im Sommer trocken, im Winter Entkalkung."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen der winterfeuchten Subtropen.",
+      "answer": "Eucalyptus, Quercus (z. B. *Q. ilex*), Olea"
+    },
+    {
+      "question": "Beschreibe das Klima Kontinentaler Steppengebiete der gemässigten Breiten.",
+      "answer": "Trocken (Niederschlag < 250 mm/Jahr), heiße Sommer, sehr kalte Winter, große Jahresamplitude, hohe Kontinentalität."
+    },
+    {
+      "question": "Welche Bodentypen sind typisch für Steppen?",
+      "answer": "Chernozeme (Schwarzerden): mächtiger Humushorizont, sehr fruchtbar, pH > 6."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen der Steppengebiete.",
+      "answer": "Agrostis, Artemisia, Stipa"
+    },
+    {
+      "question": "Welche klimatischen Bedingungen herrschen in Laubmischwäldern der Mittelbreiten?",
+      "answer": "Kühl‑gemäßigtes Jahreszeitenklima, 500–1500 mm NS, 6‑monatige Vegetationsperiode, Frostgefahr in den Übergangszeiten."
+    },
+    {
+      "question": "Welche Böden dominieren in Laubmischwäldern der Mittelbreiten?",
+      "answer": "Braunerden und Parabraunerden (Cambisol, Luvisol) mit hohem Humus und guter Nährstoffverfügbarkeit."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen in Laubmischwäldern der Mittelbreiten.",
+      "answer": "Fagus, Abies, Ulmus"
+    },
+    {
+      "question": "Charakterisiere das Klima der Borealen Wälder (Taiga).",
+      "answer": "Lange kalte Winter (bis −50 °C), kurze kühle Sommer, Niederschlag ≈ 500 mm v. a. als Schnee, Permafrostgebiete möglich."
+    },
+    {
+      "question": "Welche Böden prägen die Taiga?",
+      "answer": "Podsole mit ausgeprägtem Bleichhorizont, schlechte Nährstoffverfügbarkeit, Staunässe/Permafrost häufig."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen der Borealen Wälder.",
+      "answer": "Larix, Picea, Pinus"
+    },
+    {
+      "question": "Wie sind die klimatischen Bedingungen in der Polaren und subpolaren Zone?",
+      "answer": "Sehr kurze Vegetationsperiode (1–3 Monate > 5 °C), Mitteltemperatur wärmster Monat < 10 °C, geringer Niederschlag, starke Winde."
+    },
+    {
+      "question": "Welche Böden findet man in der Tundra?",
+      "answer": "Gleysol und Kryosole: permafrostbeeinflusst, stauend, frostgemischtes Mikrorelief."
+    },
+    {
+      "question": "Nenne drei charakteristische Gattungen der Arktischen Tundra.",
+      "answer": "Arctostaphylos, Empetrum, Ranunculus"
+    }
+  ]
+}

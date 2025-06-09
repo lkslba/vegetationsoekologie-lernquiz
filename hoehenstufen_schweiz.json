@@ -1,0 +1,126 @@
+{
+  "title": "Höhenstufen der Schweiz",
+  "description": "Höhenstufen der Schweiz mit Verständniskarten",
+  "flashcards": [
+    {
+      "question": "Welche drei Arten sind typisch für den Waldmeister-Buchenwald (kolline Stufe)?",
+      "answer": "Fagus sylvatica, Galium odoratum, Allium ursinum"
+    },
+    {
+      "question": "Nenne drei charakteristische Arten des Eichen-Hagebuchenwalds (kolline Stufe).",
+      "answer": "Carpinus betulus, Quercus robur, Quercus petraea"
+    },
+    {
+      "question": "Nenne drei typische Arten des Flaumeichenwalds (kolline Stufe).",
+      "answer": "Quercus pubescens, Sorbus aria, Orchis mascula"
+    },
+    {
+      "question": "Welche Arten dominieren traditionelle Wiesen und Weiden (kolline Stufe)?",
+      "answer": "Trifolium pratense, Taraxacum officinale, Dactylis glomerata"
+    },
+    {
+      "question": "Nenne drei charakteristische Arten des Kastanienwalds (kolline Stufe).",
+      "answer": "Castanea sativa, Luzula nivea, Pteridium aquilinum"
+    },
+    {
+      "question": "Welche Arten sind typisch für den Föhrenwald (kolline / subkolline Stufe)?",
+      "answer": "Pinus sylvestris, Arctostaphylos uva-ursi, Erica carnea"
+    },
+    {
+      "question": "Nenne drei Arten der Steppenrasen in inneralpinen Trockentälern.",
+      "answer": "Artemisia valesiaca, Stipa sp., Ephedra helvetica"
+    },
+    {
+      "question": "Welche drei Arten prägen den Weisstannen-Buchenwald (montane Stufe)?",
+      "answer": "Fagus sylvatica, Abies alba, Picea abies"
+    },
+    {
+      "question": "Nenne drei typische Arten des Ahorn-Schluchtwalds (montane Stufe).",
+      "answer": "Acer pseudoplatanus, Ulmus glabra, Lunaria rediviva"
+    },
+    {
+      "question": "Welche Arten kennzeichnen eine Fromentalwiese (montane Stufe)?",
+      "answer": "Salvia pratensis, Leucanthemum vulgare, Arrhenaterum elatius"
+    },
+    {
+      "question": "Nenne drei Arten des Heidelbeer-Fichtenwalds (subalpine Stufe).",
+      "answer": "Picea abies, Vaccinium myrtillus, Listera cordata"
+    },
+    {
+      "question": "Welche Arten dominieren Bergföhrenwälder (subalpine Stufe)?",
+      "answer": "Pinus mugo, Daphne striata, Rhododendron hirsutum"
+    },
+    {
+      "question": "Nenne drei charakteristische Arten des Lärchen-Arvenwalds (subalpine Stufe).",
+      "answer": "Pinus cembra, Larix decidua, Clematis alpina"
+    },
+    {
+      "question": "Welche Arten sind typisch für Zwergstrauchheiden (subalpine Stufe)?",
+      "answer": "Rhododendron ferrugineum, Vaccinium uliginosum, Vaccinium myrtillus"
+    },
+    {
+      "question": "Nenne drei Arten der Bergfettwiesen (subalpine Stufe).",
+      "answer": "Geranium sylvaticum, Polygonum bistorta, Heracleum sphondylium"
+    },
+    {
+      "question": "Welche drei Arten kennzeichnen Borstgrasweiden (alpine Stufe)?",
+      "answer": "Nardus stricta, Trifolium alpinum, Arnica montana"
+    },
+    {
+      "question": "Nenne drei charakteristische Arten der Krummseggenrasen (alpine Stufe).",
+      "answer": "Carex curvula, Senecio incanus, Gentiana alpina"
+    },
+    {
+      "question": "Welche Arten dominieren Blaugrasrasen (alpine Stufe)?",
+      "answer": "Leontopodium alpinum, Aster alpina, Sesleria caerulea"
+    },
+    {
+      "question": "Nenne drei typische Arten der Alpinen Schuttfluren (alpine Stufe).",
+      "answer": "Linaria alpina, Papaver alpinum, Thlaspi rotundifolium"
+    },
+    {
+      "question": "Welche Arten sind charakteristisch für Felsfluren der nivalen Stufe?",
+      "answer": "Saxifraga oppositifolia, Eritrichium nanum, Ranunculus glacialis"
+    },
+    {
+      "question": "Welches Temperaturkriterium bestimmt die Waldgrenze (Timberline) in den Alpen?",
+      "answer": "Eine mittlere Juli-Boden- bzw. Lufttemperatur von etwa 7.5 – 9.5 °C (global ca. 6.4 °C im Sommermittel) erlaubt noch zusammenhängenden Wald; darüber beginnen subalpine Krummholzformen."
+    },
+    {
+      "question": "Erkläre den Unterschied zwischen Waldgrenze, Baumgrenze und Artgrenze.",
+      "answer": "Waldgrenze = Ende geschlossener Bestände; Baumgrenze (Treeline) = letzte einzeln stehende Bäume; Artgrenze (Tree-species line) = höchstes Einzelvorkommen der jeweiligen Baumart."
+    },
+    {
+      "question": "Was bewirkt der Massenerhebungseffekt und wie beeinflusst er die Waldgrenze?",
+      "answer": "Große, kompakte Gebirgsmassive erwärmen sich stärker; dadurch liegt die Waldgrenze im inneralpinen Zentrum teils hunderte Meter höher als an kühlenden ozeanischen Randgebieten."
+    },
+    {
+      "question": "Warum fehlen Buchen im Ahorn-Schluchtwald steiler Hänge?",
+      "answer": "Steinschlag und Rutschungen schaffen permanenten klein-flächigen Störungsdruck, den die flach wurzelnde Buche nicht toleriert; robuste Bergahorne und Ulmen dominieren."
+    },
+    {
+      "question": "Welche Bodeneigenschaften prägen den Heidelbeer-Fichtenwald der subalpinen Stufe?",
+      "answer": "Starke Humusakkumulation und Podsolierung unter saurer Nadelstreu führen zu nährstoffarmen, bleich-grauen Oberböden; daran angepasst sind Vaccinium-Zwergsträucher."
+    },
+    {
+      "question": "Warum ersetzen Bergföhrenwälder (Pinus mugo) in niederschlagsarmen Lagen oberhalb der Fichtenwälder die Fichte?",
+      "answer": "Bergföhren tolerieren Trockenheit, Wind und Frost besser als Fichte; Fichtenregenwälder werden an warm-trockenen, flachgründigen Hängen verdrängt."
+    },
+    {
+      "question": "Nenne zwei historische Bewirtschaftungsformen, die zur Entstehung von Borstgrasweiden führten.",
+      "answer": "Intensive Alpweide und periodische Mahd entzogen Nährstoffe; ohne Nutzung würden Krummseggenrasen oder subalpiner Wald zurückkehren."
+    },
+    {
+      "question": "Welche landwirtschaftliche Praxis erhält die artenreiche Fromentalwiese in der montanen Stufe?",
+      "answer": "Ein- bis zweimalige Mahd pro Jahr und nur mäßige Düngung mit Stallmist verhindern Verbuschung und Überdüngung."
+    },
+    {
+      "question": "Nenne drei morphologische Anpassungen alpiner Polsterpflanzen wie *Saxifraga oppositifolia* an die nivalen Umweltbedingungen.",
+      "answer": "Polsterform reduziert Wind und Kälte, dichte Behaarung oder Wachsschicht senkt Wasserverlust, eingerollte nadel- oder borstenförmige Blätter minimieren Transpiration; hoher Zucker- oder Anthocyangehalt schützt vor Frost."
+    },
+    {
+      "question": "Welche zwei Standortgradienten zeigt das Schweizer Ökogramm und wie verschieben sie sich vom Flaumeichen- zum Weisstannen-Buchenwald?",
+      "answer": "Achsen: Bodenfeuchte (trocken → nass) und Bodenreaktion pH (basisch → sauer). Flaumeichenwälder liegen trocken-basisch, Weisstannen-Buchenwälder feuchter und mäßig sauer."
+    }
+  ]
+}
